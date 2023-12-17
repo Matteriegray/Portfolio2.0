@@ -1,0 +1,138 @@
+:root {
+    font-size: 20px;
+    box-sizing: inherit;
+  }
+  
+  *:before,
+  *:after {
+    box-sizing: inherit;
+  }
+  
+  p {
+    margin: 0;
+    
+  }
+  
+  p:not(:last-child) {
+    margin-bottom: 1.5em;
+   
+  }
+  
+  body{
+    color: #224;
+    background:
+      url(https://source.unsplash.com/E8Ufcyxz514/2400x1823)
+      center / cover no-repeat fixed;
+  }
+
+  .intro{
+    font: 1em/1.618 Inter, sans-serif;
+  
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+    min-height: 100vh;
+    padding: 30px;
+    
+    
+  }
+
+  h1{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 60px;
+    text-align:center;
+    display:inline-block;
+    font-family: 'Dancing Script', cursive;
+font-family: 'IBM Plex Sans', sans-serif;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Kalnia', serif;
+font-family: 'Pacifico', cursive;
+color: rgb(27, 6, 49);
+    
+  }
+
+  h2{
+    font-family: serif;
+    font-size:50px;
+    flex-wrap: wrap;
+    align-content:flex-start;
+    color: black;
+    font-family: 'Dancing Script', cursive;
+font-family: 'IBM Plex Sans', sans-serif;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Kalnia', serif;
+font-family: 'Pacifico', cursive;
+  }
+  
+  .card {
+    max-width: 300px;
+    min-height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  
+    max-width: 500px;
+    height: 300px;
+    padding: 35px;
+  
+    border: 1px solid rgba(255, 255, 255, .25);
+    border-radius: 20px;
+    background-color: rgba(255, 255, 255, 0.45);
+    box-shadow: 10px 0 10px 1px rgba(0, 0, 0, 0.25);
+  
+    backdrop-filter: blur(15px);
+
+    font-size :24px;
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Kalnia', serif;
+    font-family: 'Pacifico', cursive;
+  }
+  
+  .card-footer {
+    font-size: 0.85em;
+    color: #446;
+    text-align: right;
+  }
+
+  a{
+   text-decoration:none;
+   color: #446;
+
+  }
+  
+
+  .profile{
+    display:flex;
+    border-radius:50%;
+    position:sticky;
+    top: -10px;
+    right: auto;
+    left: 1380px;
+    bottom:auto;
+    float: right;
+    height :100px;
+    width: 100px;
+   background-image:url(https://png.pngtree.com/background/20230611/original/pngtree-man-in-headphones-and-hoodie-in-a-purple-and-blue-background-picture-image_3168854.jpg);
+    background-size:cover;
+    background-position: center;
+  }
+
+ 
+  
+
+
+
+
+  
+  h3{
+    color:black;
+    font-size: 20px;
+    font-family: cursive;
+  }
+
+  h4{
+    font-weight: 50;
+    font-size: 15px;
+  }
