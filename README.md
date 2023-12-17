@@ -24,7 +24,7 @@ This is my projects.
 
 - This is a basic demo of how a person's portfolio looks
 - HTML , CSS
-- https://github.com/Matteriegray/Porfolio2.0.git
+-
 
 
 ## Skills
