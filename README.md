@@ -20,7 +20,7 @@ Hii i'm Vaishnav.S an 18 years old 1st year B.Tech student working hard to be a 
 
 This is my projects.
 
-### Project 1: [Project Name]
+### Project 1: [My Portfolio 2.0]
 
 - This is a basic demo of how a person's portfolio looks
 - HTML , CSS
