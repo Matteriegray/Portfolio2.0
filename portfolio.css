@@ -48,7 +48,7 @@ font-family: 'IBM Plex Sans', sans-serif;
 font-family: 'Josefin Sans', sans-serif;
 font-family: 'Kalnia', serif;
 font-family: 'Pacifico', cursive;
-color: rgb(27, 6, 49);
+color: cyan;
     
   }
 
@@ -57,7 +57,7 @@ color: rgb(27, 6, 49);
     font-size:50px;
     flex-wrap: wrap;
     align-content:flex-start;
-    color: black;
+    color: teal;
     font-family: 'Dancing Script', cursive;
 font-family: 'IBM Plex Sans', sans-serif;
 font-family: 'Josefin Sans', sans-serif;
@@ -127,7 +127,7 @@ font-family: 'Pacifico', cursive;
 
   
   h3{
-    color:black;
+    color:Turquoise;
     font-size: 20px;
     font-family: cursive;
   }
